@@ -10,10 +10,10 @@ int main()
      // membuat objek output file stream
      ofstream outfile;
      // membuka file untuk ditulisi.
-     outile.open("contohfile.txt");
+     outfile.open("contohfile.txt");
 
      cout << ">= menulis file, \'q\' untuk keluar" << endl;
 
-     
-}
+
+};
    
