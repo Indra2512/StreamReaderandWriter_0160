@@ -2,3 +2,18 @@
 #include <iostream>
 #include <string>
 using namespace std;
+
+int main()
+{
+     string baris;
+
+     // membuat objek output file stream
+     ofstream outfile;
+     // membuka file untuk ditulisi.
+     outile.open("contohfile.txt");
+
+     cout << ">= menulis file, \'q\' untuk keluar" << endl;
+
+     
+}
+   
