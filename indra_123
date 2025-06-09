@@ -1,0 +1,2 @@
+cd "c:\Users\DELL\Documents\Semester 2\File Pemdas\Pertemuan 13\" ; if ($?) { g++ ioFile.cpp -o ioFile } ; if ($?) { .\ioFile }
+cd "c:\Users\DELL\Documents\Semester 2\File Pemdas\Pertemuan 13\" ; if ($?) { g++ ioFile.cpp -o ioFile } ; if ($?) { .\ioFile }
